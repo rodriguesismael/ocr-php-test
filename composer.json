@@ -1,0 +1,6 @@
+{
+    "require": {
+	"solarium/solarium": "^3.6",
+        "thiagoalessio/tesseract_ocr": "1.0.0-RC"
+    }
+}
